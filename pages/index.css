@@ -34,4 +34,9 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
-
+/*Блок footer*/
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__nav-links/footer__nav-links.css);
+@import url(../blocks/footer/__list-item/footer__list-item.css);
+@import url(../blocks/footer/__nav-link/footer__nav-link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
