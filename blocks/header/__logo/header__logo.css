@@ -5,10 +5,9 @@
     background-size: contain;
 }
 
-/*
+
 @media screen and (max-width: 320px) {
     .header__logo {
-        width:1px;
+        width:44.375vw;
     }
 }
-*/
