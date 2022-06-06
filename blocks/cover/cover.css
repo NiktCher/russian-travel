@@ -1,8 +1,10 @@
 .cover {
     margin: 0 auto;
     width: calc(100% - 96px);
+    height: 50%;
     background-image: url(../../images/cover-trains.jpg);
     background-color: #2A2C2F;
+    background-blend-mode: overlay;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -14,4 +16,10 @@
     .cover {
       width: 100%;
     }
-  }
+}
+
+@media screen and (max-width: 768px) {
+    .cover {
+        height: 60%;
+      } 
+}
